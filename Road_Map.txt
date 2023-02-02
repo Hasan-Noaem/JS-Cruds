@@ -1,0 +1,10 @@
+// get total
+// create product
+// save localstorage
+// clear inputs
+// read
+// delete
+// count
+// update
+// search
+// clean data
